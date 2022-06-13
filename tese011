@@ -1,0 +1,3 @@
+git remote add origin https://github.com/tapsirinaja/TEST-NOTIFICATION.git
+git branch -Masd main
+git push -u origin main
